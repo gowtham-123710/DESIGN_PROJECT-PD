@@ -1,4 +1,4 @@
-# DESIGN_PROJECT-PD
+![image](https://github.com/user-attachments/assets/cc74835c-e79d-45bd-aa74-4f4b636affcb)# DESIGN_PROJECT-PD
 
 ### AIM:
 To implement and design synthesis and simulation for uart using cadence - genus and innovus.
@@ -312,7 +312,10 @@ Synthesis RTL Schematic:
 #### Timing Report:
 
 
-![Uploading image.png…]()
+
+
+![image](https://github.com/user-attachments/assets/a7c59412-da3b-4093-9a46-1fab223ef59c)
+
 
 
 ### FLOORPLANNING:
